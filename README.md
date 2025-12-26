@@ -3,7 +3,15 @@ Hi , I am Priyanshu Priyadarshi
 
 Email Me at **priyanshupriyadarshi222@gmail.com** for Collaboration/Project.
 
-Senior Software Engineer at Samsung Research Institute Bangalore (SRIB)<br>Working in Spectrum Sharing at MAC Layer in Network Modem Team<br>Full Stack Enthusiast
+✓ Senior Software Engineer at Samsung Research Institute Bangalore (SRIB), working on Spectrum Sharing at the MAC Layer within the Network Modem Team.
+
+✓ Bachelor of Engineering (B.E.) in Electronics and Communication Engineering from Bangalore Institute of Technology.
+
+✓ Full-Stack enthusiast with strong hands-on experience in frontend technologies including React.js, HTML, CSS, JavaScript, and EJS.
+
+✓ Good backend development experience using Node.js, Express.js, and designing and implementing RESTful APIs and building middleware solutions for authentication, request validation, logging, and centralized error handling with working knowledge of MongoDB databases.
+
+✓ Passionate about learning new technologies, building scalable applications, and continuously improving technical expertise.
 
 
 ## 🌐 Socials:
